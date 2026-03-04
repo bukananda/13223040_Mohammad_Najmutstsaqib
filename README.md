@@ -1,4 +1,4 @@
-<p>Nama: Mohammad Najmutstsaqib\n
-NIM: 13223040\n
-Program Studi: Teknik Elektro\n
-Fakultas: STEI-R\n<\p>
+Nama: Mohammad Najmutstsaqib<br>
+NIM: 13223040<br>
+Program Studi: Teknik Elektro<br>
+Fakultas: STEI-R<br>
