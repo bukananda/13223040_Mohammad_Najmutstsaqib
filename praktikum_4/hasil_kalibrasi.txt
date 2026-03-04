@@ -1,0 +1,3 @@
+Nilai sensor: 110.55
+Nilai sensor: 220
+Nilai sensor: 165.55
